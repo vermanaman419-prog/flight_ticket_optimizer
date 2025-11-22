@@ -242,8 +242,8 @@ Contributions are welcome! Please follow these steps:
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/vermanaman419-prog)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/naman419/)
+- GitHub: (https://github.com/vermanaman419-prog)
+- LinkedIn: (https://www.linkedin.com/in/naman419/)
 
 ## 🙏 Acknowledgments
 
